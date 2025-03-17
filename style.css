@@ -1,0 +1,27 @@
+h1 {
+    /*color: rgb(2, 56, 23);8*/
+    font-size: 50px;
+    text-align: center;
+    color: rgb(225, 234, 205);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px
+    background-color #E1EACD;
+}
+
+.container a {
+    margin: 0 15px;
+    text-decoration:solid;
+    color: rgb(2, 12, 63);
+    font-size: 20x;
+}
+
+
+* {
+    background-color: rgb(186, 216, 182);
+}
+
+
